@@ -1,0 +1,21 @@
+{
+  "expo": {
+    "name": "Kamilstore",
+    "slug": "kamilstore-mobile",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.kamilstore.mobile"
+    },
+    "android": {
+      "package": "com.kamilstore.mobile"
+    },
+    "web": {},
+    "extra": {
+      "apiUrl": "http://localhost:5000"
+    }
+  }
+}

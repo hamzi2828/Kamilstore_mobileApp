@@ -1,0 +1,2 @@
+# Drop your icon.png, splash.png, adaptive-icon.png, and favicon.png here.
+# `expo install expo-asset` will pick them up via app.json's references.
